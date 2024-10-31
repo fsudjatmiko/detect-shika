@@ -1,6 +1,4 @@
-# Image Processing with OpenCV and Pygame
-
-This project demonstrates image processing techniques using OpenCV and Pygame. It includes functionalities for loading and resizing images, performing color detection, and displaying images using Pygame.
+# SHIKANOKONOKONOKONOKOKOSHITANTAN
 
 ## Table of Contents
 
