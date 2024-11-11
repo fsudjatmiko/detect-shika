@@ -110,7 +110,6 @@ while running:
         image, image_resized = load_and_resize_image(image_path, target_width, target_height)
         final_image_rgb = perform_color_detection(image)
         final_image_resized = cv2.resize(final_image_rgb, (target_width, target_height))
-
         # Set up the display for showing the original and processed images
         window_width = target_width * 2
         window_height = target_height + 50  # Include space for the retry button
